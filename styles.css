@@ -1,0 +1,39 @@
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.card {
+    width: min-content;
+    border-radius: 1rem;
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+}
+
+img {
+    margin: 1.1rem;
+    width: 19rem;
+    border-radius: 0.6rem;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+h4 {
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    margin: 0rem 1rem 1rem;
+}
+
+p {
+    font-size: 15px;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    margin: 1rem 2rem;
+    padding-bottom: 1.3rem;
+}
